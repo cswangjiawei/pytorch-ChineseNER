@@ -1,5 +1,5 @@
 # ChineseNER
-  这是一个基于BiLSTM-CRF的字级别的命名实体识别库，可以从文本中抽取出人名、地名、组织名三大类实体。  
+  这是一个基于BiLSTM-CRF的字级别的中文命名实体识别库，可以从文本中抽取出人名、地名、组织名三大类实体。  
 ## installation
   pip install ChineseNER
 ## 使用
